@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "RnL Map Sorter & Icons"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "tool",
+	"tags": 
+	[
+		"realism",
+		"roleplay"
+	]
+}"
+}

@@ -1,0 +1,10 @@
+
+"sorting_rnl"
+{
+
+	"base" "base"
+	"title" "Resistance and Liberation"
+	"maps" "^rnl_*"
+	"menusystem" "0"
+
+}
