@@ -1,4 +1,4 @@
-# Resistance & Liberation Config & Map Icons for Garry's Mod
+# Resistance & Liberation Map Helpers for Garry's Mod
 
 A simple faux gamemode script that adds the Resistance & Liberation maps into their own map category.
 

@@ -10,27 +10,46 @@ if SERVER then
 	-- RnL
 	maplist["rnl_ardennes"] = "452109731"
 	maplist["rnl_battleofcarentan"] = "452109731"
-	maplist["rnl_battleofcarentan_fix"] = "724635320"
 	maplist["rnl_eglise"] = "452109731"
 	maplist["rnl_falaise"] = "452109731"
-	maplist["rnl_farm_v4"] = "452226991"
-	maplist["rnl_farm_night_v1"] = "847377074"
-	maplist["rnl_hill35_a8"] = "452226991"
+	maplist["rnl_stcomedumont"] = "452109731"
 	maplist["rnl_lafiere"] = "452109731"
+
+	maplist["rnl_farm_v4"] = "452226991"
+	maplist["rnl_hill35_a8"] = "452226991"
 	maplist["rnl_lapluie_v1"] = "452226991"
-	maplist["rnl_laststand"] = "702465569"
 	maplist["rnl_omahabeach_v7_22nd_update"] = "452226991"
 	maplist["rnl_ramelle_b2e"] = "452226991"
 	maplist["rnl_sanglots_longs_b1a"] = "452226991"
 	maplist["rnl_sicily_a1"] = "452226991"
 	maplist["rnl_siegfriedline_v2"] = "452226991"
 	maplist["rnl_stannum_v3a"] = "452226991"
-	maplist["rnl_stcomedumont"] = "452109731"
+
+	maplist["rnl_farm_night_v1"] = "847377074"
+
+	maplist["rnl_laststand"] = "702465569"
+
+	maplist["rnl_battleofcarentan_fix"] = "724635320"
+
 	maplist["rnl_stemariedumont"] = "705416167"
+	
+	maplist["rnl_brecourt_a1 "] = "829419459"
+	maplist["rnl_smallmap_v1 "] = "829419459"
+	maplist["rnl_tropics_beta1 "] = "829419459"
+
 	maplist["rnl_adenau"] = "1382352014"
 	maplist["rnl_dragoon_v1b14"] = "1382352014"
 	maplist["rnl_glidernight_b3"] = "1382352014"
 	maplist["rnl_kriegsmarine_beta1_d"] = "1382352014"
+
+	maplist["rnl_boxingring_b1"] = "847130069"
+
+	maplist["rnl_omahabeach_v5b"] = "847378754"
+
+	maplist["rnl_16targetsontime_v3"] = "847128349"
+
+	maplist["rnl_omahabeach_v8"] = "1591145252"
+	maplist["rnl_adenau_v1a"] = "1591145252"
 
 	-- Gets the current map name
 	local map = game.GetMap()
